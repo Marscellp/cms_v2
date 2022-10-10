@@ -1,0 +1,11 @@
+import './bootstrap';
+import '../assets/libs/jquery/jquery.min';
+import '../assets/libs/bootstrap/js/bootstrap.bundle.min.js';
+import '../assets/libs/metismenu/metisMenu.min.js';
+import '../assets/libs/simplebar/simplebar.min.js';
+import '../assets/libs/node-waves/waves.min.js';
+import '../assets/libs/peity/jquery.peity.min.js';
+import '../assets/libs/chartist/chartist.min.js';
+import '../assets/libs/chartist-plugin-tooltips/chartist-plugin-tooltip.min.js';
+import '../assets/js/pages/dashboard.init.js';
+import '../assets/js/app.js';
